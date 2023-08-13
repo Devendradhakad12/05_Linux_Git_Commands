@@ -4,3 +4,8 @@ Console - A Command-line interface used to work with your computer
 Shell - A program runnig on Terminal
 Bash - A Popular Shell on Mac OS / Linux
 Z-Shell - Author Shell (default)
+
+-------------------------------------
+
+Paths - Absolute & Relative
+

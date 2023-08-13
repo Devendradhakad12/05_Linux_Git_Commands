@@ -18,6 +18,8 @@ Project-------------------------------------------------------
 
 🚀 cd .. 👉 switch preivious folder
 
+🚀 cd ../.. 👉 switch preivious 2 folder
+
 🚀 pwd 👉 print working diractory (where am i)
 
 🚀 git init 👉 initialize folder and create repo
