@@ -9,3 +9,8 @@ Z-Shell - Author Shell (default)
 
 Paths - Absolute & Relative
 
+Asbsolute path - /d/Devendra/Web Development/Delta/05_Terminal_Delta
+Relatvie Path - Web Development/Delta 
+
+/ = root directory
+~ = home directory
