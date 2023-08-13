@@ -10,7 +10,7 @@
 
 🚀 git config --global --edit 👉 edit username or email
 
-💡 Project-------------------------------------------------------
+💡 Commands -------------------------------------------------------
 
 🚀 mkdir <dir name>  👉 make a new folder
 
