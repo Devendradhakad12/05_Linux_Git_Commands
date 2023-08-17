@@ -34,11 +34,13 @@ what is github - Website where we host repositories online
 
 🚀 git status 👉 it show you chnages of repo, display the state of the code
 
-🚀 git add <file name> 👉 track file
+🚀 git add <file name> 👉 add new or changed file in working directiry to the git staging area
 
 🚀 git add . 👉 track all file (file come in staging area)
 
-🚀 git commit -m "message of commit" 👉 commit file
+🚀 git commit -m "message of commit" 👉 it is the record of change , commit file
+
+🚀 git push origin main 👉 upload local repo content to remote repo
 
 🚀 git log 👉 check no. of previous commits
 
