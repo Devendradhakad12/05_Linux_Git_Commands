@@ -96,8 +96,6 @@ what is github - Website where we host repositories online
 
 
 
-
-
 💡 Common Commands ---------------------------------------------------
   These are common Git commands used in various situations:
 
