@@ -1,6 +1,7 @@
 
 What is git - Free & Open Source Version Control System, in simple words tool that help to trackes changes in code
 what is github - Website where we host repositories online
+pull request - its lets you tell other about changes you've pushed to a branch in a repository on github
 
 🚀 git --version 👉 check version 
 
@@ -77,6 +78,8 @@ what is github - Website where we host repositories online
       
 🚀 git checkout -b <branch name> 👉 create and switch new branch
    exp. git checkout dev/newfeature
+
+🚀 git diff <branch name> 👉 compare commits,branches,file & more
 
 🚀 git merge <branch name> 👉 when feature is complete then merege all branches in master branch
     exp.i'm in dev --  git merge dev/newfeature
