@@ -89,7 +89,6 @@ what is github - Website where we host repositories online
 🚀 cat <file name> 👉 check edits and changes in file
  
 
-
 💡 Flags ----------------------------------------------------------
   
   Flags - Flags are characters that we pass with commands to moify their behaviour
