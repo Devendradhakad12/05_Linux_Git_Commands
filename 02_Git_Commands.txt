@@ -14,7 +14,7 @@ what is github - Website where we host repositories online
 
 🚀 git config --global --edit 👉 edit username or email
 
-💡 Commands -------------------------------------------------------
+💡Create file and folder and push on github Commands -------------------------------------------------------
 
 🚀 mkdir <dir name>  👉 make a new folder
 
@@ -26,7 +26,7 @@ what is github - Website where we host repositories online
 
 🚀 pwd 👉 print working diractory (where am i)
 
-🚀 git init 👉 initialize folder and create repo
+🚀 git init 👉 used to create a new git repo , initialize folder and create repo
 
 🚀 ls 👉 list files (Show my files) 
 
@@ -40,15 +40,37 @@ what is github - Website where we host repositories online
 
 🚀 git commit -m "message of commit" 👉 it is the record of change , commit file
 
-🚀 git push origin main 👉 upload local repo content to remote repo
+🚀 git remote add origin <link> 👉 add github repo
 
-🚀 git log 👉 check no. of previous commits
-
-🚀 git checkout <commit hash code/branch name> 👉 you can discard all the changes
+🚀 git remote -v 👉 verify remote
 
 🚀 git branch 👉 checkout branches
 
-🚀 git branch <branch_name> 👉 create branch
+🚀 git branch -M main 👉 reaname branch
+
+🚀 git push origin main 👉 upload local repo content to remote repo
+
+🚀 git push -u origin main 👉 set push origin
+
+🚀 git push 👉  push in main origin
+
+🚀 git log 👉 check no. of previous commits
+
+
+
+💡 Branch crete commands-----------------------------------------------------------------------------------
+
+🚀 git branch 👉 checkout branches
+
+🚀 git branch -M main 👉 reaname branch
+
+🚀 git checkout <commit hash code/branch name> 👉 to navigate,  you can discard all the changes
+
+🚀 git checkout -b <new branch_name> 👉 create branch
+
+🚀 git branch -d <branch_name> 👉 delete branch
+
+🚀 git branch <new branch_name> 👉 create branch
    exp.  git branch dev
 
 🚀 git checkout <branch_name> 👉 switch in branch_name branch
