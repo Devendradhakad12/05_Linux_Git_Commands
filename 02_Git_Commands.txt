@@ -87,7 +87,7 @@
 
    🚀rm index.html  👉 remove files
    🚀rmdir   👉 removes empty folder
-   🚀rm -rf 👉 removes any folder   
+   🚀rm -rf 👉 removes any folder   (recursive force)
     
 
 
