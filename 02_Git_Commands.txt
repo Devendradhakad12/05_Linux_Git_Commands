@@ -88,7 +88,6 @@ what is github - Website where we host repositories online
 
 🚀 cat <file name> 👉 check edits and changes in file
  
-(this code is in only dev_branch)
 
 💡 Flags ----------------------------------------------------------
   
