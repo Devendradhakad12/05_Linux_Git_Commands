@@ -32,7 +32,7 @@ what is github - Website where we host repositories online
 
 🚀 ls -a 👉  .git is created in it trough which you know that it contains file which is being tracking by git
 
-🚀 git status 👉 it show you chnages of repo
+🚀 git status 👉 it show you chnages of repo, display the state of the code
 
 🚀 git add <file name> 👉 track file
 
