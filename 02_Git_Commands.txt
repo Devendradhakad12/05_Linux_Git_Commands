@@ -1,3 +1,7 @@
+
+What is git - Free & Open Source Version Control System, in simple words tool that help to trackes changes in code
+what is github - Website where we host repositories online
+
 🚀 git --version 👉 check version 
 
 🚀 git config --global user.name "Devendra Dhakad"   👉 set name
@@ -54,7 +58,7 @@
     exp.i'm in dev --  git merge dev/newfeature
     exp.i'm in master -- git merge dev
 
-🚀 git clone <repo_link> 👉 clone repo
+🚀 git clone <repo_link> 👉 cloning a repository on our local machine
 
 🚀 vim <file name> 👉 open file inn git bash and click on i for editing
 
