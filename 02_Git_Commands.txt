@@ -1,7 +1,11 @@
 
-What is git - Free & Open Source Version Control System, in simple words tool that help to trackes changes in code
-what is github - Website where we host repositories online
-pull request - its lets you tell other about changes you've pushed to a branch in a repository on github
+📝 What is git - Free & Open Source Version Control System, in simple words tool that help to trackes changes in code
+
+📝 what is github - Website where we host repositories online
+
+📝 pull request - its lets you tell other about changes you've pushed to a branch in a repository on github
+
+📝 Merge Conflicts - An event that takes place when Git is unable to automatically resolve differences in code between two commits.
 
 🚀 git --version 👉 check version 
 
@@ -90,7 +94,26 @@ pull request - its lets you tell other about changes you've pushed to a branch i
 🚀 vim <file name> 👉 open file inn git bash and click on i for editing
 
 🚀 cat <file name> 👉 check edits and changes in file
+
+🚀 git pull origin main 👉 used to featch and download content from a remote repo immediately update the local repo to match that content.
  
+
+
+💡Fixing Mistakes ----------------------------------------------------------
+ 
+      Case 1: staged changes
+
+        🚀 git reset <file name>
+        🚀 git reset 
+
+      case 2: commited changes (for one commit)  
+        
+        🚀 git reset HEAD~1
+
+      case 3: commited changes (for many commits)
+
+        🚀 git reset <commit hash>
+        🚀git reset --hard <commit hash>
 
 💡 Flags ----------------------------------------------------------
   
