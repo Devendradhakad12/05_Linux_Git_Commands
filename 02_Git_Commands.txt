@@ -1,3 +1,4 @@
+git config --global http.postBuffer 157286400 
 
 📝 What is git - Free & Open Source Version Control System, in simple words tool that help to trackes changes in code
 
