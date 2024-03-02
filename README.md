@@ -1,1 +1,1 @@
-# 05 Basic Linux Commands  
+# 05 Basic Linux and Git Commands  

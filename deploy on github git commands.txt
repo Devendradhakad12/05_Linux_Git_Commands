@@ -1,0 +1,28 @@
+gigit ///privet files
+touch .gitignore
+git config --global user.name devendra
+git config --global user.email "devendradhakad745@gmail.com
+git init
+git add .
+git commit -m "Initial Commit"
+git status //just to see
+ssh-keygen -t rsa -b 4096 -C "devendradhakad745.com"
+tail <path to id_rsa.pub> //add this key to github
+git remote add origin <ssh url.git>
+git push origin master
+
+
+//public file
+echo "# exp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Devendradhakad12/exp.git
+git push -u origin main
+git status
+git add .
+git status
+git commit -m "first file"
+git pull
+git push 

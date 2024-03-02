@@ -1,0 +1,58 @@
+open terminal
+  (use "git restore --staged <file>..." to unstage)
+🚀 git --version 👉 check version 
+
+🚀 git config --global user.name "Devendra Dhakad"   👉 set name
+
+🚀 git config --global user.email "devendradhakad745@gmail.com" 👉 set email id
+
+🚀 git config user.name 👉 Check user name
+
+🚀 git config user.email 👉 Check email id
+
+🚀 git config --global --edit 👉 edit username or email
+
+Project-------------------------------------------------------
+
+🚀 mkdir <dir name>  👉 make a new folder
+
+🚀 cd <dir name> 👉 change floder
+
+🚀 cd .. 👉 switch preivious folder
+
+🚀 git init 👉 initialize folder and create repo
+
+🚀 ls -a 👉 .git is created in it trough which you know that it contains file which is being tracking by git
+
+🚀 git status 👉 it show you chnages of repo
+
+🚀 git add <file name> 👉 track file
+
+🚀 git add . 👉 track all file (file come in staging area)
+
+🚀 git commit -m "message of commit" 👉 commit file
+
+🚀 git log 👉 check no. of previous commits
+
+🚀 git checkout <commit hash code/branch name> 👉 you can discard all the changes
+
+🚀 git branch 👉 checkout branches
+
+🚀 git branch <branch_name> 👉 create branch
+   exp.  git branch dev
+
+🚀 git checkout <branch_name> 👉 switch in branch_name branch
+      
+🚀 git checkout -b <branch name> 👉 create and switch new branch
+   exp. git checkout dev/newfeature
+
+🚀 git merge <branch name> 👉 when feature is complete then merege all branches in master branch
+    exp.i'm in dev --  git merge dev/newfeature
+    exp.i'm in master -- git merge dev
+
+🚀 git clone <repo_link> 👉 clone repo
+
+🚀 vim <file name> 👉 open file inn git bash and click on i for editing
+
+🚀 cat <file name> 👉 check edits and changes in file
+ 
