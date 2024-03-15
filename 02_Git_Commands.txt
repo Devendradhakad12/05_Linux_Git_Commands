@@ -144,6 +144,12 @@ git config --global http.postBuffer 157286400
    🚀rm -rf 👉 removes any folder   (recursive force)
     
 
+💡 undo git commit --------------------------------
+
+   🚀git log  👉 check last commit
+   🚀git reset HEAD~1  👉 back 1 commit and remove
+   🚀git reset --hard HEAD~1  👉 hard remove
+   
 
 
 💡 Common Commands ---------------------------------------------------
