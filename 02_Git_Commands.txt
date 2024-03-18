@@ -62,6 +62,8 @@ git config --global http.postBuffer 157286400
 
 🚀 git log 👉 check no. of previous commits
 
+🚀 git log --oneline
+
 
 
 💡 Branch crete commands-----------------------------------------------------------------------------------
@@ -144,12 +146,36 @@ git config --global http.postBuffer 157286400
    🚀rm -rf 👉 removes any folder   (recursive force)
     
 
-💡 undo git commit --------------------------------
+💡 remove last git commit and changes --------------------------------
 
    🚀git log  👉 check last commit
    🚀git reset HEAD~1  👉 back 1 commit and remove
    🚀git reset --hard HEAD~1  👉 hard remove
    
+
+💡 change commit message of last commit --------------
+
+    🚀git commit --amend -m "new commit message"
+
+💡 add more files to last commit -----------
+
+    🚀git commit --amend --no-edit
+
+
+💡 overwrite history on remote --------------
+    
+    🚀git push origin main --force
+
+💡 undo a commit  with a new commit -------------
+
+   🚀git  revert better-days
+
+
+ 
+💡 open vs code from git  repository
+
+🚀 open repo and press . 
+
 
 
 💡 Common Commands ---------------------------------------------------
